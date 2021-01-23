@@ -41,7 +41,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** Although the instructions were easy to follow for the pre work, I did have some difficulty configuring and understanding the layout of the Android app development platform. The organization of the important files and how they interacted with each other was not intuitive and required some outside references to fully understand. However after some light research I was able to figure it out. The code itself was mostly self explanatory and allowed me to understand the inner workings of the app itself and the implmentation also allows easy modifications and personalization to the app. I thin for future pre works, some of the instructions should be expanded upon and the students should be taught how to build and run the application. In addition, the slides display an older version of Android Studio which can cause some confusion for students following the slides.
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
@@ -49,11 +49,11 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The sldies for the android pre work was 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Muhammad Tanveer]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
