@@ -4,7 +4,7 @@
 
 Submitted by: **Muhammad Tanveer**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -45,11 +45,11 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** 
+**Answer:** ArrayAdapter is used to anytime we need to create a list of scrollable items, the ArrayAdapter converts the items populated in the ArrayList into a ListView. The Adapter is important to be able to seemlessly transition from the data the user inputs to the viewing experience for the user while allowing any data to be processed or modified if needed. The getView method is the main part of the ArrayAdapter, it take sin 3 parameters: position, convertView, and parent. The getView takes the position of the item needed to be viewed by the user and displays it on a new View. The convertView parameter is used when an old view needs to be saved such in the case of the user scrolling a list, it can also be used to recycle old views that are not being used. It helps to optimize performance by recycling items that are not currently being dispalyed/used. 
 
 ## Notes
 
-The sldies for the android pre work was 
+The slides for the android pre work were a bit hard to follow since they use an older version of the Android Studio porgram. However aside from that this pre work really helped me get a good foundation for Android web development. 
 
 ## License
 
